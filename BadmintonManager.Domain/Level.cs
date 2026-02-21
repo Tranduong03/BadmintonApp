@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BadmintonManager.Domain
 {
-    internal class MemberRole
+    internal class Level
     {
 
     }
